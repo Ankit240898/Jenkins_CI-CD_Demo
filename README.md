@@ -1,2 +1,2 @@
 # Jenkins_CI-CD_Demo
-Demo for Jenkins CI/CD
+This is a Jenkins CI/CD Demo for Bits Pilani Assignment
